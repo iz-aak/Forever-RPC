@@ -11,6 +11,4 @@ By using this code, you are automating your Discord Account. This is against Dis
 
 ## DO NOT GIVE YOUR DISCORD TOKEN TO ANYONE.
 
----
-
 <p align="center">This is a fork of ForeverOnline by <a href="https://izaa.k.vu">izaak</a></p>

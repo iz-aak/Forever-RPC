@@ -1,10 +1,3 @@
-<div id="Phantom" align="center">
-    <h1>Online Forever</h1>
-    <p>Make Your Discord Account 24/7 Online!</p>
-    <img src="https://i.imgur.com/N61T21L.png" height="210">
-</div>
-
----
 
 <p align="center">
 <b>⭐ Feel free to star the repository if this helped you!</b>
@@ -20,16 +13,7 @@ By using this code, you are automating your Discord Account. This is against Dis
 
 ---
 
-## ✨ Features
-- Secure [🔒]
-- Supports Custom Status
-- Account will stay 24/7 online
-- Supports all three status modes (Online, Idle, Do Not Disturb)
-- Can be used on any platform that supports [Python](https://python.org)
-
----
-
-## 🔎 Obtaining Your Token
+## Obtaining Your Token
 You will need an user token inorder to use this code. You can obtain it by doing the following:
 1. Logging in to your discord account
 2. Pressing `Ctrl+Shift+I` to open Chrome Developer Tools
@@ -40,17 +24,6 @@ You will need an user token inorder to use this code. You can obtain it by doing
 7. On the sub-menu, go to `Headers`
 8. Scroll down till you see an entry named `Authorization`. Copy the line next to it.
 9. This is your token. <ins>**DO NOT GIVE IT TO ANYONE**</ins>.
-
----
-
-## 🛠️ Installation
-
-1. Install [Python](https://python.org/downloads) on your machine (Make sure you add it to [PATH](https://i.imgur.com/Ukl6HdQ.png))
-3. Download the repository and extract it
-4. Open the `main.py` file and modify both the status mode and custom status, if you want to make any adjustments
-5. Save the file
-6. Open command prompt inside the folder and run `pip install -r requirements.txt`
-7. Once the packages are downloaded, either double-click the `main.py` file in order to run it or open command prompt and run `python main.py`
 
 ---
 
